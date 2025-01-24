@@ -1,0 +1,3 @@
+cd ~/spfexpert/iamgroot && cd $_
+mkdir -p .github/workflows
+touch .github/workflows/build-ios-app-spfexpert.yml
